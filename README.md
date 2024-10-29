@@ -5,5 +5,5 @@
 Some facts about me:
 
 - 👀 I’m interested in developing.
-- 🌱 I’m currently Working as Erpnext Developer.
+- 🌱 I’m currently Working as an Erpnext Developer.
 - 💞️ I’m looking to collaborate on web and android development.
